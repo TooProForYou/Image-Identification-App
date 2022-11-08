@@ -32,7 +32,7 @@ a {
     font-size: 14px;
     overflow: hidden;
     transition: 0.2s;
-    margin-top: 590px;
+    margin-top: 555px;
 }
 
 
@@ -113,4 +113,15 @@ a:hover span:nth-child(4) {
     bottom: 100%;
     transition: 1s;
     transition-delay: 0.75s;
+}
+
+.copy_right_fotter
+{
+    position: fixed;
+    color: #fff;
+    bottom: 0;
+    width: 100%;
+    background-color: #6c757d;
+    line-height: 3;
+    text-align: center;
 }
